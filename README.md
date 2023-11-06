@@ -7,7 +7,7 @@ Software engineer.
 
 ### Recommended Resources
 - [The Pragmatic Engineer blog](https://blog.pragmaticengineer.com)
-- Spaced repetition (study technique). Read [Make it Stick](https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013) for more insight
+- Spaced repetition (study technique). Read [Make it Stick](https://www.amazon.co.uk/Make-Stick-Science-Successful-Learning/dp/0674729013) for more insight, use [Anki](https://apps.ankiweb.net) to make it happen 
 - [A Philosophy of Software Design](https://www.amazon.co.uk/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 <!--
